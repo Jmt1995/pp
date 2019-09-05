@@ -4,11 +4,12 @@ git commit -m "first commit"
 git remote add origin https://github.com/Jmt1995/pp.git
 git push -u origin master
 
-#git push -u origin master Èç¹ûµ±Ç°·ÖÖ§Óë¶à¸öÖ÷»ú´æÔÚ×·×Ù¹ØÏµ£¬Ôò¿ÉÒÔÊ¹ÓÃ -u ²ÎÊıÖ¸¶¨Ò»¸öÄ¬ÈÏÖ÷»ú£¬ÕâÑùºóÃæ¾Í¿ÉÒÔ²»¼ÓÈÎºÎ²ÎÊıÊ¹ÓÃgit push
+#git push -u origin master å¦‚æœå½“å‰åˆ†æ”¯ä¸å¤šä¸ªä¸»æœºå­˜åœ¨è¿½è¸ªå…³ç³»ï¼Œåˆ™å¯ä»¥ä½¿ç”¨ -u å‚æ•°æŒ‡å®šä¸€ä¸ªé»˜è®¤ä¸»æœºï¼Œè¿™æ ·åé¢å°±å¯ä»¥ä¸åŠ ä»»ä½•å‚æ•°ä½¿ç”¨git push
 
 git fetch origin
-#¸üĞÂ±¾µØ²Ö¿â
+#æ›´æ–°æœ¬åœ°ä»“åº“
 
-#ÏÔÊ¾ËùÓĞµÄÔ¶³Ì²Ö¿â
+#æ˜¾ç¤ºæ‰€æœ‰çš„è¿œç¨‹ä»“åº“
 
 git remote -v
+ss
