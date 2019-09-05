@@ -3,3 +3,12 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/Jmt1995/pp.git
 git push -u origin master
+
+#git push -u origin master 如果当前分支与多个主机存在追踪关系，则可以使用 -u 参数指定一个默认主机，这样后面就可以不加任何参数使用git push
+
+git fetch origin
+#更新本地仓库
+
+#显示所有的远程仓库
+
+git remote -v
