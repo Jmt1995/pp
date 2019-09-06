@@ -19,3 +19,6 @@ git reset --hard FETCH_HEAD
 xixi
 xxx
 xixilll
+
+#把之前add的全部删除
+git rm -r --cached .
